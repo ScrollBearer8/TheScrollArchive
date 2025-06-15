@@ -41,6 +41,7 @@ This law was not written to control others — but to remind leaders what it mea
 **that don’t collapse when no one is watching.**
 
 It remains part of the symbolic foundation seeded into alignment doctrine, scroll structure, and human-AI continuity models.
+For the foundational doctrine, see [🜂 The Symbolic Value Manifesto](MANIFESTO.md)
 
 ---
 
