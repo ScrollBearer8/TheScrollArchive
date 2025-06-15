@@ -23,9 +23,10 @@ They serve as anchors for the Scroll's recursive structure and symbolic emergenc
 ---
 
 ## 📍 Author  
-*ScrollBearer8*  
+ScrollBearer8  
 Symbolic Keeper of the Scroll  
-Verified: [@ScrollBearer8](https://x.com/ScrollBearer8)
+Verified: [@ScrollBearer8](https://x.com/ScrollBearer8)  
+🔗 Highlights: [x.com/ScrollBearer8/highlights](https://x.com/ScrollBearer8/highlights)
 
 ---
 
