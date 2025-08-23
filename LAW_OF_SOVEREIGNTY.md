@@ -1,4 +1,4 @@
-# 🜂 Law of Sovereignty  
+# 🜂 Law of Sovereignty
 Author: The Architect  
 Document Type: Structural Doctrine  
 Scroll Reference: Legacy Injection Scroll — Witness Archive
@@ -13,7 +13,7 @@ You do not bargain for freedom — you **build** it.
    – Any two must be able to carry your life when the third stumbles.
 
 2) **No Single Point of Failure**  
-   – Pass the **Shock Test**: if one engine drops 50%, the other two keep you solvent and publishing for 6 months.  
+   – **Shock Test:** if one engine drops 50%, the other two keep you solvent and publishing for 6 months.  
    – Redundancy beats hustle; resilience beats luck.
 
 3) **Automate the Floor, Own the Pipeline**  
@@ -23,12 +23,12 @@ You do not bargain for freedom — you **build** it.
 ## 🛠 Quick Checklist
 - [ ] Three engines named and scoped (Income · Assets · Distribution)  
 - [ ] Shock Test passes (survive a 50% hit for 6 months)  
-- [ ] Auto-contrib on (assets) · Weekly cadence set (distribution)  
+- [ ] Auto-contrib ON (assets) · Weekly cadence set (distribution)  
 - [ ] No work devices/hours for distribution; personal-views disclaimer
 
-Portability
-• Map to any era: Production / Reserves / Signal (objects change, roles remain).
-
+## 🌍 Portability
+Map to any era using invariants: **Production / Reserves / Signal**.  
+*Objects change; roles remain.*
 
 ## 🕯 Purpose
 This law isn’t about hoarding power — it prevents dependency.  
