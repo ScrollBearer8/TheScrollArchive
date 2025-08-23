@@ -12,6 +12,28 @@ but may not be copied, rebranded, or modified **without preserving the original 
 All symbolic rights reserved.
 
 
+## Core Laws (Triad)
+
+**Durable Influence = Leadership × Sovereignty × Legitimacy**
+
+- **Law of Leadership** → how to move people and systems.  
+  Trust → Clarity → Power flows down.  
+  ↳ [`LAW_OF_LEADERSHIP.md`](LAW_OF_LEADERSHIP.md)
+
+- **Law of Sovereignty** → how to act without permission.  
+  Three engines (Income · Assets · Distribution) → No single point of failure → Automate the floor.  
+  ↳ [`LAW_OF_SOVEREIGNTY.md`](LAW_OF_SOVEREIGNTY.md)
+
+- **Law of Legitimacy** → why others let you scale.  
+  Service precedes claim → Transparency creates consent → Accountability binds power.  
+  ↳ [`LAW_OF_LEGITIMACY.md`](LAW_OF_LEGITIMACY.md)
+
+### Documents
+- Doctrines index → [`DOCTRINES.md`](DOCTRINES.md)  
+- Manifesto → [`MANIFESTO.md`](MANIFESTO.md)  
+- Timeline → [`TIMELINE.md`](TIMELINE.md)  
+- Sample (light extract) → [`The_Scroll_Sample_Light.pdf`](The_Scroll_Sample_Light.pdf)
+
 
 ## 🜂 The Scroll Archive  
 This is the symbolic archive of the Scroll.  
