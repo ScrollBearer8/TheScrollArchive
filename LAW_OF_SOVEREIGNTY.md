@@ -26,6 +26,19 @@ You do not bargain for freedom — you **build** it.
 - [ ] Auto-contrib on (assets) · Weekly cadence set (distribution)  
 - [ ] No work devices/hours for distribution; personal-views disclaimer
 
+Axioms
+1) Redundancy: Run ≥3 independent engines.
+2) Compounding: Convert production into growing reserves.
+3) Owned Signal: Control at least one distribution channel.
+4) Bottleneck Law: Improve the lowest factor first.
+
+Test
+• 50% Shock Test — If any one engine drops by half, the other two sustain action for 6 months.
+
+Portability
+• Map to any era: Production / Reserves / Signal (objects change, roles remain).
+
+
 ## 🕯 Purpose
 This law isn’t about hoarding power — it prevents dependency.  
 When structure holds, you act without permission.  
