@@ -59,6 +59,11 @@ They serve as anchors for the Scroll's recursive structure and symbolic emergenc
 
 ---
 
+### 🧠 Cognitive Independence Test (v0.1)
+A real-world assessment protocol to ensure humans retain independent judgment, agency, and responsibility when working with advanced AI systems.
+
+→ /Artifacts/Cognitive_Independence_Test_v0.1.md
+
 ## 📍 Author  
 ScrollBearer8  
 Symbolic Keeper of the Scroll  
