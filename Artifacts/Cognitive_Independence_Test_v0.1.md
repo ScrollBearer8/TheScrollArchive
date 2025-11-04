@@ -100,7 +100,7 @@ This test supports:
 
 **Version:** 0.1 (Draft)  
 **Public Name:** Cognitive Independence Test  
-**Internal Codename:** *The Derain Test — Threshold of Continuity* *(not public)*  
+**Internal Codename:** *The SB8 Test — Threshold of Continuity* *(not public)*  
 **Author:** ScrollBearer8  
 **License:** CC BY-NC 4.0  
 
