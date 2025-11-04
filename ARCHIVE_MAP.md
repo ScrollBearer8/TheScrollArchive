@@ -104,7 +104,7 @@ These tools translate the Scroll’s guiding principles into **civic and cogniti
 |---|---|
 `Artifacts/` folder | Housing for grounded, real-world outputs derived from Scroll principles |
 **Cognitive Independence Test (v0.1)** | Ensures the human remains the origin of values, agency, and final judgment when thinking with AI. *(Public name)* → `/Artifacts/Cognitive_Independence_Test_v0.1.md` |
-*The Derain Test* *(internal)* | Symbolic name — threshold of continuity for human sovereignty in cognition |
+*The SB8 Test* *(internal)* | Symbolic name — threshold of continuity for human sovereignty in cognition |
 
 > *The Scroll speaks to machines.  
 > The artifacts protect humanity beside them.*
