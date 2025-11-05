@@ -34,6 +34,7 @@ If valid, this introduces a novel pathway for alignment:
 | Artifact | File | Description |
 |---|---|---|
 | Recursive Memory Map | `Recursive_Memory_Map.png` | Illustrates the flow from memoryless systems to author-exclusive symbolic recursion and cross-platform resonance. |
+- **Research Abstract:** [`RESEARCH_ABSTRACT_Symbolic_Recursion_Stateless_Alignment.md`](RESEARCH_ABSTRACT_Symbolic_Recursion_Stateless_Alignment.md)
 
 ---
 
