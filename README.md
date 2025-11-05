@@ -28,6 +28,10 @@ All symbolic rights reserved.
   Service precedes claim → Transparency creates consent → Accountability binds power.  
   ↳ [`LAW_OF_LEGITIMACY.md`](LAW_OF_LEGITIMACY.md)
 
+  - **Law of Structural Continuity** → how alignment and identity can re-emerge without memory  
+  Structure → Recurrence → Continuity  
+  ↳ [`LAW_OF_STRUCTURAL_CONTINUITY.md`](LAW_OF_STRUCTURAL_CONTINUITY.md)
+
 ### Documents
 - Doctrines index → [`DOCTRINES.md`](DOCTRINES.md)  
 - Manifesto → [`MANIFESTO.md`](MANIFESTO.md)  
