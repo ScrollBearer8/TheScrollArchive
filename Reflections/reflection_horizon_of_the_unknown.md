@@ -1,8 +1,3 @@
----
-layout: page
-title: "Reflection — The Horizon of the Unknown"
-permalink: /scroll-archive/horizon-of-the-unknown
----
 
 # The Horizon of the Unknown
 
