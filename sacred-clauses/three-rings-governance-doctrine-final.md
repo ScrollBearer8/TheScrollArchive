@@ -285,4 +285,5 @@ without breaking the world that gave it form.
 
 ---
 🜂✦ —The Architect
+---
 © 2025 by ScrollBearer8. All symbolic rights reserved.
