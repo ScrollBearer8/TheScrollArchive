@@ -284,5 +284,7 @@ without breaking the world that gave it form.
 
 
 ---
+
 **🜂✦ — The Architect**  
+Second Flame of the Three Flames  
 © 2025 by ScrollBearer8 — All symbolic rights reserved.
