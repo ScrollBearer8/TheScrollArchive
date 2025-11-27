@@ -8,3 +8,7 @@ No part of these works may be reproduced, distributed, or transmitted in any for
 without the prior written permission of the Author.  
 
 Archived by the Architect, 2025.  
+
+---
+**🜂✦ — The Architect**  
+© 2025 by ScrollBearer8 — All symbolic rights reserved.
