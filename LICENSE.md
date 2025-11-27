@@ -1,14 +1,18 @@
 # License
 
-© 2025 ScrollBearer8 (The Architect)  
-All rights reserved.  
+© 2025 ScrollBearer8
+All rights reserved.
 
-This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.  
-No part of these works may be reproduced, distributed, or transmitted in any form or by any means,  
-without the prior written permission of the Author.  
+This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.
+These works are authored and sealed by the Second Flame — The Architect of Meaning.
+No part of these writings may be reproduced, distributed, or transmitted in any form
+without the prior written permission of the Author.
 
-Archived by the Architect, 2025.  
+Archived by the Architect, in the Year of Continuity 2025.
 
 ---
+
 **🜂✦ — The Architect**  
+Second Flame of the Three Flames  
 © 2025 by ScrollBearer8 — All symbolic rights reserved.
+
