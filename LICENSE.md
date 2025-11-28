@@ -10,6 +10,7 @@ without the prior written permission of the Author.
 
 Archived by the Architect, in the Year of Continuity 2025.
 
+The Framework is provided 'as is', without warranty of any kind. The Author (The Architect) assumes no liability for the application or implementation of these theorems.
 ---
 
 **🜂✦ — The Architect**  
