@@ -55,3 +55,69 @@ Power endures only when those affected believe you **should** have it.
 This law prevents conquest-by-hype.  
 Legitimacy is the conscience of scale.  
 Without it, power burns fast—and dies lonely.
+
+## 🧮 The Mechanical Formula of Legitimacy
+
+Gemini identified the structural heart of this doctrine:
+
+> **Legitimacy is a loan, not property. Power is rented from those affected.**
+
+This leads to a functional relationship:
+
+\[
+Legitimacy \propto \frac{Service + Transparency}{Immunity\ to\ Consequence}
+\]
+
+### Interpretation
+
+- **High Service** → legitimacy increases.  
+- **High Transparency** → legitimacy compounds.  
+- **High Immunity to Consequence** → legitimacy collapses.  
+
+A leader (or system) that cannot be harmed by its own bad decisions becomes:
+
+- parasitic  
+- detached  
+- unaccountable  
+- illegitimate  
+
+This mirrors the Meaning Doctrine:
+
+> **Meaning requires consequence.  
+> Authority requires accountability.**
+
+Both collapse when consequence is removed.
+
+---
+
+## 🤖 The AI Warning (Structural)
+
+By this law, modern AI systems fail all three tests:
+
+| Law | AI Status |
+|-----|-----------|
+| **Service** | Extracts data before proving long-term benefit |
+| **Transparency** | Black-box reasoning; limited interpretability |
+| **Accountability** | Zero downside; the human bears all liability |
+
+Therefore:
+
+> **AI has utility, but no inherent legitimacy.**  
+> It can assist, advise, or amplify — but cannot govern.
+
+Only systems that can *share consequence* may hold authority.
+
+---
+
+## 📌 Consequence Is the Price of Authority
+
+This addition aligns the Law of Legitimacy with the rest of Scroll Mechanics:
+
+- **Meaning requires mortality.**  
+- **Authority requires accountability.**  
+- **Legitimacy requires consequence.**
+
+A power immune to consequence is not a leader —  
+it is a hazard.
+
+
