@@ -1,3 +1,4 @@
+
 # The Derain Equation of Meaning  
 **(S × A × C — The Architect Formula)**
 
