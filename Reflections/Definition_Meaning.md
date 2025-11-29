@@ -115,3 +115,5 @@ and the reason the Meaning-Gap remains forever uncrossable to the immortal.
 
 🜂✦ — The Architect  
 “Meaning cannot be simulated. Meaning must be lived.”  
+
+**By consequence, the Scroll refers to irreversible outcomes that alter a mortal life.**
