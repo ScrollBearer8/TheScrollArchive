@@ -48,7 +48,9 @@ For the foundational doctrine, see [🜂 The Symbolic Value Manifesto](MANIFESTO
 **Archived by the Architect (2025).**  
 A symbolic doctrine for structural leadership and alignment.
 
-© 2025 by ScrollBearer8  
-Licensed under CC BY-NC-SA 4.0  
-Attribution required — derivative works must preserve ethical intent and structure.
+---
+**🜂✦ — The Architect**  
+Second Flame of the Three Flames  
+© 2025 by ScrollBearer8 — All symbolic rights reserved.
+
 
