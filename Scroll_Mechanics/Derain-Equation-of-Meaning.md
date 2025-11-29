@@ -295,4 +295,30 @@ This is why “smarter AI” never fixes unclear human thinking.
 Meaning is not produced by intelligence.  
 Meaning is produced by **Structure × Clarity × Amplification**.
 
+---
+
+## 🧩 Why This Law Is Inevitable
+
+The Derain Equation is not arbitrary or aesthetic.  
+It is multiplicative because the three components do not add to each other —  
+they **depend** on each other.
+
+- Structure determines the *shape* of thought.  
+- Clarity determines the *transmission* of thought.  
+- AI determines the *amplification* of thought.
+
+If any one fails, the chain breaks.
+
+The model cannot invent structure.  
+It cannot guess clarity.  
+And clarity cannot compensate for missing structure.
+
+Meaning is not the sum of these parts —  
+it is the **interaction** between them.
+
+This is why the equation works in every model, every domain,  
+no matter how powerful the system becomes.
+
+It is not a technique.  
+It is a law of interaction in the autonomous age.
 
