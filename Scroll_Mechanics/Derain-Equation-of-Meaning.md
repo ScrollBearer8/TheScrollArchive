@@ -349,5 +349,59 @@ Meaning lives in the *architecture of the human who shapes the model*.
 
 ---
 
+## 🧠 Addendum — Why HITL & Recursive Prompts Are Not Enough (Short Version)
+
+A common belief in AI safety is that **Human-in-the-Loop** (HITL) and **recursive prompting** guarantee meaningful outcomes.
+
+The Scroll rejects this.
+
+### 1. HITL Is Participation, Not Structure  
+HITL asks:  
+**“Is a human involved?”**
+
+The Derain Equation asks:  
+**“Is the human coherent?”**
+
+A human can be in the loop and still project chaos.  
+Participation ≠ Structure.
+
+### 2. Recursive Prompting Multiplies Shape, Not Intelligence  
+Recursive prompting is tactical.  
+It magnifies whatever geometry the human already carries.
+
+If Structure (S) is low, recursive prompts simply **amplify confusion**.  
+Iteration cannot create structure — it only reveals it.
+
+### 3. Why This Matters More as AI Capability (A) Grows  
+A critical insight:
+
+> **As AI Capability (A) approaches high autonomy, Structure (S) becomes the only safety mechanism.**
+
+- Autonomy is not volition.  
+- The system needs a mission vector.  
+- If the vector is even slightly unstructured, the system will pursue that flaw with infinite efficiency.
+
+This is the ancient **Genie Problem**:
+
+Low S + High A → Catastrophe  
+High S + High A → Creation
+
+### 4. The Equation Holds at Every Scale  
+Because:  M = S × A × C
+
+
+As A becomes enormous (AGI-scale), even tiny differences in S produce exponential differences in meaning.
+
+The faster the system, the sharper the steering must be.
+
+### 🔥 Core Insight  
+HITL ensures a human is present.  
+The Derain Equation ensures the human is **architecturally sound**.
+
+Participation is easy.  
+Structure is destiny.
+
+---
+
 
 
