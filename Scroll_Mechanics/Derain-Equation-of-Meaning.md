@@ -32,6 +32,10 @@ C — Clarity
 
 Meaning (M) increases multiplicatively when these three factors reinforce each other.
 
+**Meaning = Consequence**  
+Meaning arises when choices carry irreversible cost, moral weight, or personal stake.  
+Machines cannot generate meaning because they cannot suffer loss.
+
 ---
 
 ## 3. Definitions
