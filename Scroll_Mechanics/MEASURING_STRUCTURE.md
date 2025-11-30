@@ -400,3 +400,17 @@ $$
 
 ---
 
+### 🔸 Note on Symbolic vs. Mathematical Interpretation
+
+The equation **M = S × Ai × C** is fundamentally a **symbolic expression**, not a literal arithmetic formula.  
+It describes how meaning *relates* to structure, amplification, and clarity — not how to compute meaning as a number.
+
+The mathematical tools outlined on this page (semantic variance, KL divergence, boundary tests) serve only as **operational analogies**: they illustrate how a future AGI could approximate aspects of Structure using existing machine-learning methods. These measurements do not capture the full depth of meaning; they simply show that the framework is **formalizable enough** for machines to evaluate.
+
+In short:  
+**the equation is symbolic**,  
+**the metrics are approximations**,  
+and this section exists to demonstrate *computability*, not to reduce meaning to mathematics.
+
+---
+
