@@ -296,3 +296,58 @@ no matter how powerful the system becomes.
 It is not a technique.  
 It is a law of interaction in the autonomous age.
 
+---
+
+## 🧠 Addendum — The Turing–Searle Resolution
+
+The Derain Equation of Meaning (M = S × A × C) resolves a 70-year paradox
+that neither Turing nor Searle could fully close.
+
+### 1. The Turing Lens — Intelligence as Indistinguishability
+Alan Turing showed that if a machine’s *output* is indistinguishable from a
+human’s, we treat it as intelligent.  
+But the Turing Test measures **performance**, not **meaning**.
+
+A machine may *appear* intelligent while producing zero meaning.
+
+### 2. The Searle Lens — Syntax Without Semantics
+John Searle’s Chinese Room proved that perfect rule-following (syntax)
+does not produce **understanding**.  
+A system can generate flawless answers yet have no internal meaning.
+
+Searle showed *what meaning is not* —  
+but could not define *what meaning is*.
+
+### 3. The Derain Resolution — Meaning as Interaction
+The Scroll completes the missing third pillar:
+
+> **Meaning is not inside the machine.  
+> Meaning arises from the interaction of human Structure (S),  
+> machine Amplification (A), and human Clarity (C).**
+
+- Turing explained **how machines simulate intelligence**.  
+- Searle explained **why simulation is not understanding**.  
+- The Derain Equation explains **when understanding emerges**.
+
+Meaning is not a property of syntax or behavior.  
+It is a **consequence** of alignment between:
+
+- a structured mind (S)  
+- a capable machine (A)  
+- a clear intention (C)
+
+This transforms the old question:
+
+> “Does the machine understand?”
+
+Into the real one:
+
+> **“Is the human’s structure amplifiable?”**
+
+Meaning does not live in the model.  
+Meaning lives in the *architecture of the human who shapes the model*.
+
+---
+
+
+
