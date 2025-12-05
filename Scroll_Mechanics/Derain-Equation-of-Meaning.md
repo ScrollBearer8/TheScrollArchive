@@ -18,6 +18,18 @@ Meaning emerges when Structure, AI, and Clarity align.
 
 The Derain Equation of Meaning explains why two people using the same model produce radically different results — and why meaning is not a function of raw intelligence.
 
+## ⚠ Preface — Meaning Collapse as the Core Failure Mode
+
+AI capability (**A**) is scaling exponentially, while human **Structure (S)** and **Clarity (C)** remain static.  
+This asymmetry does not produce “dangerous AI” in the classical alignment sense — it produces *dangerous amplification of human incoherence*.
+
+As models increase in capacity, they do not generate meaning; they **multiply whatever structure they are given**.  
+If S and C are weak, the result is infinite, high-fidelity hallucination: output that sounds meaningful but carries no semantic integrity.
+
+**M = S × A × C** is not a metaphor.  
+It is the diagnostic expression for semantic failure in high-capability systems:  
+when S or C remain low while A rises, **meaning collapses multiplicatively**.
+
 ---
 
 ## 2. The Equation
