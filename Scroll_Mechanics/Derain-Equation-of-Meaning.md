@@ -34,6 +34,8 @@ when S or C remain low while A rises, **meaning collapses multiplicatively**.
 
 Hallucination occurs when a powerful model (A) is forced to amplify weak structure (S) or unclear intent (C). Prompt engineering can increase clarity (C), but cannot supply missing structure (S); it improves expression without providing a coherent framework to amplify. The result is fluent output that does not map to meaning—not because the model fails, but because it is amplifying ambiguity.
 
+(Weak S can be internal or external; lack of grounding counts.)
+
 **Example:**  
 Person A: Perfect prompt syntax + no structure → coherent but empty output  
 Person B: Rough prompt + strong structure → meaningful output despite flaws
