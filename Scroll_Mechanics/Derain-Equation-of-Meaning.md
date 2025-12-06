@@ -30,6 +30,14 @@ If S and C are weak, the result is infinite, high-fidelity hallucination: output
 It is the diagnostic expression for semantic failure in high-capability systems:  
 when S or C remain low while A rises, **meaning collapses multiplicatively**.
 
+### 📌 Hallucination, Briefly
+
+Hallucination occurs when a powerful model (A) is forced to amplify weak structure (S) or unclear intent (C). Prompt engineering can increase clarity (C), but cannot supply missing structure (S); it improves expression without providing a coherent framework to amplify. The result is fluent output that does not map to meaning—not because the model fails, but because it is amplifying ambiguity.
+
+**Example:**  
+Person A: Perfect prompt syntax + no structure → coherent but empty output  
+Person B: Rough prompt + strong structure → meaningful output despite flaws
+
 ---
 
 ## 2. The Equation
