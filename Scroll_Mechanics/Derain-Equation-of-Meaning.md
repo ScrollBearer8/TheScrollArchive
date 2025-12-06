@@ -38,6 +38,18 @@ Hallucination occurs when a powerful model (A) is forced to amplify weak structu
 Person A: Perfect prompt syntax + no structure → coherent but empty output  
 Person B: Rough prompt + strong structure → meaningful output despite flaws
 
+### 📌 Concrete Contrast (Why Structure > Syntax)
+
+**Person A:** Perfect prompt wording, no structure  
+→ “sustainable solutions,” “improve efficiency,” “reduce emissions”  
+(fluent but generic; no mechanisms, no models)
+
+**Person B:** Rough wording but clear structure  
+→ “Compare EU CBAM vs US IRA vs China ETS: enforcement, leakage, export impact”  
+(specific policies, timelines, trade math; actual meaning)
+
+**Point:** Prompt syntax improves expression, but only structure determines what the model can meaningfully amplify.
+
 ---
 
 ## 2. The Equation
