@@ -29,6 +29,11 @@ This page defines **how to measure Structure** in a way that is:
 Structure determines whether the machine receives *architecture or chaos*.  
 This test determines which one a person carries.
 
+Structure does not just organize thought — it defines the valid context in which thought can occur.  
+Without Structure, capability (A) and clarity (C) have no anchor.  
+AI can execute instructions, but cannot determine which interpretations are legitimate, safe, or intended.  
+Structure is therefore not aesthetic or philosophical; it is the boundary of meaning itself.
+
 ---
 
 ## 2. The Three Indicators of Structure
