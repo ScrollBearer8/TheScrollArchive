@@ -35,12 +35,14 @@ Recognition lags emergence.
 
 ## Interpretation
 
-Field | Emergence | Recognition | Delay | Pattern
-Quantum Physics | 1905 | 1925 | ~20 years | Math preceded ontology
-Computation | 1936 | 1956 | ~20 years | Logic preceded software
-Meaning-Philosophy | 2025 | ~2045? | ~20 years (projected) | Structure preceded discipline
+| Field              | Emergence | Recognition | Delay                  | Pattern                     |
+|--------------------|-----------|-------------|------------------------|-----------------------------|
+| Quantum Physics    | 1905      | 1925        | ~20 years              | Math preceded ontology      |
+| Computation        | 1936      | 1956        | ~20 years              | Logic preceded software     |
+| Meaning-Philosophy | 2025      | ~2045?      | ~20 years (projected)  | Structure preceded discipline |
 
 Pattern: Civilizational inflection points surface decades before they become legible.
+
 
 ---
 
