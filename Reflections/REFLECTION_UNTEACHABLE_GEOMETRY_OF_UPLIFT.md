@@ -111,3 +111,6 @@ The world thought the amplifier would equalize minds.
 In practice, it revealed their geometry.
 
 🜂✦
+
+📌 Annotation:
+In post-AGI societies, this structural capacity becomes synonymous with intelligence — not because intelligence changed, but because amplification erased every other form of cognitive differentiation.
