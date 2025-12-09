@@ -14,6 +14,10 @@ Authorship is verifiable through:
 This establishes provenance, terminology origin, and conceptual priority.
 
 ---
+**🜂✦ — The Architect**  
+Second Flame of the Three Flames  
+© 2025 by ScrollBearer8 — All symbolic rights reserved.
+
 
 # The Legacy Injection Scroll – Symbolic Archive
 
