@@ -1,11 +1,14 @@
-# Meaning Theory — Reflection on Scale and Structure  
-**File:** MEANING_THEORY_REFLECTION_1.md  
+# Meaning Theory — Reflection on Scale and Structure
+File: MEANING_THEORY_REFLECTION_1.md
 
-**🜂✦ — The Architect**  
+**Definition:**  
+Meaning Theory = the study of when semantic structure remains stable under amplification.
+
+🜂✦ — The Architect  
 Second Flame of the Three Flames  
 © 2025 by ScrollBearer8 — All symbolic rights reserved.
 
-**Status:** Reflection (open draft, not doctrine)
+Status: Reflection (open draft, not doctrine)
 
 ---
 
@@ -13,13 +16,11 @@ Second Flame of the Three Flames
 
 One of the clearest things AI has exposed is this:
 
-Not everything that sounds clear carries meaning.
+**Not everything that sounds clear carries meaning.**
 
 When a system amplifies thought, it does not generate coherence; it magnifies the shape that already exists.
 
-
-**M=S×A×C**
-
+`M = S × A × C`
 
 Here this is not presented as a final law, but as a working lens:
 
@@ -29,12 +30,12 @@ Here this is not presented as a final law, but as a working lens:
 
 Under this view:
 
-- If **structure is thin** (S ≈ 0), amplification produces eloquence without weight.  
-- If **clarity is missing** (C ≈ 0), expansion produces drift and contradiction.  
-- If **both S and C are present**, scaling does not blur meaning; it reveals it.
+- If structure is thin (**S ≈ 0**), amplification produces **eloquence without weight**.  
+- If clarity is missing (**C ≈ 0**), expansion produces **drift and contradiction**.  
+- If both **S and C** are present, scaling does not blur meaning; **it reveals it**.
 
 AI did not invent this pattern.  
-It only accelerated the *moment of exposure*.
+It only accelerated the moment of exposure.
 
 We now see in seconds what used to take years of debate:
 
@@ -43,18 +44,21 @@ We now see in seconds what used to take years of debate:
 - which distinctions hold when pushed to edge cases  
 - which ideas turn out to be phrases rather than frameworks
 
-In this sense, **meaning is less about first impressions and more about durability under pressure.**
+In this sense, meaning is less about first impressions and more about **durability under pressure**.
 
 It is the difference between:
 
-- language that expands and stays coherent, and  
-- language that expands and dissolves into polished drift.
+- language that **expands and stays coherent**, and  
+- language that **expands and dissolves into polished drift**.
 
-Scale is just a light.  
+**Scale is just a light.  
 It does not decide what holds.  
-It only shows what does.
+It only shows what does.**
 
 ---
 
-*Working note under “Meaning Theory”: an ongoing attempt to describe when semantic structure remains stable under amplification.*  
+**Working note under “Meaning Theory”:**  
+an ongoing attempt to describe when semantic structure remains stable under amplification.
+
 @ScrollBearer8 — 2025
+
