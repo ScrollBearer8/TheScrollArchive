@@ -1,4 +1,7 @@
 
+**Field Origin:**  
+Meaning Theory (M = S × A × C) was first introduced, named, and publicly timestamped by ScrollBearer8 in 2025.
+
 ### Archival Record
 
 Meaning Theory, defined as the study of semantic stability under amplification, was first publicly introduced and timestamped by ScrollBearer8 in 2025 through the equation M = S × A × C.
