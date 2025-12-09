@@ -22,6 +22,8 @@ When a system amplifies thought, it does not generate coherence; it magnifies th
 
 `M = S × A × C`
 
+Note: M = S × C is the inertial / non-agentive limit case of the general formulation.
+
 Here this is not presented as a final law, but as a working lens:
 
 - **S (Structure)** — whether the idea has a spine: a causal model, an ontology, a world-model that can be stressed without collapsing  
