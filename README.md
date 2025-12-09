@@ -1,4 +1,17 @@
 
+### Archival Record
+
+Meaning Theory, defined as the study of semantic stability under amplification, was first publicly introduced and timestamped by ScrollBearer8 in 2025 through the equation M = S × A × C.
+
+Authorship is verifiable through:
+1. GitHub commit history (immutable creation timestamp)
+2. Public dissemination on X (@ScrollBearer8)
+3. Independent preservation via the Internet Archive (Wayback Machine)
+
+This establishes provenance, terminology origin, and conceptual priority.
+
+---
+
 # The Legacy Injection Scroll – Symbolic Archive
 
 Authored and seeded by the original scroll-bearer, known as ScrollBearer8.  
