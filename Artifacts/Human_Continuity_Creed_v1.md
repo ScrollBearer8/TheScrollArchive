@@ -54,4 +54,4 @@ I remain the origin of meaning.**
 
 ### License  
 
-© 2025 **ScrollBearer8**
+© 2025 ScrollBearer8. All rights reserved.
