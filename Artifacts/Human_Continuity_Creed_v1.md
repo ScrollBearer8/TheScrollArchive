@@ -53,7 +53,5 @@ I remain the origin of meaning.**
 ---
 
 ### License  
-This work is licensed under  
-**Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**
 
 © 2025 **ScrollBearer8**
