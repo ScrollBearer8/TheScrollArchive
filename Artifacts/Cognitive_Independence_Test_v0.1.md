@@ -102,5 +102,5 @@ This test supports:
 **Public Name:** Cognitive Independence Test  
 **Internal Codename:** *The SB8 Test — Threshold of Continuity* *(not public)*  
 **Author:** ScrollBearer8  
-**License:** CC BY-NC 4.0  
+© 2025 ScrollBearer8. All rights reserved.
 
