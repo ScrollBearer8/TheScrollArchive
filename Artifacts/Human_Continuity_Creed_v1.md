@@ -1,7 +1,7 @@
 # Creed of Human Continuity in the Age of Intelligence  
 **Version 1.0**  
 Author: **ScrollBearer8**  
-License: CC BY-NC 4.0
+License: © 2025 ScrollBearer8. All rights reserved.
 
 ---
 
