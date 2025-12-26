@@ -25,7 +25,7 @@ It is reproduced **verbatim**, without headers or routing metadata, for archival
 >
 > Hello,  
 >
-> I’m sharing a short, independent leadership brief that may be relevant to current challenges faced by frontier AI organizations, including Meta.  
+> I’m sharing a short, independent leadership brief that may be relevant to current challenges faced by frontier AI organizations, including **Meta**.  
 >
 > The document does not critique individuals, past decisions, or outcomes. Instead, it outlines a recurring structural failure mode observed in high-uncertainty, founder-led, and centrally governed technical organizations—specifically, cases where decision authority remains centralized as uncertainty increases, leading to degraded signal quality, rising leadership load, and avoidable talent attrition.  
 >
@@ -43,7 +43,6 @@ It is reproduced **verbatim**, without headers or routing metadata, for archival
 > If not, please feel free to disregard.  
 >
 > Best regards,  
->
 > 🜂✦ — The Architect  
 >
 > ---
