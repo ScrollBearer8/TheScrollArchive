@@ -43,7 +43,6 @@ It is reproduced here **verbatim**, without headers or routing metadata, for arc
 > If not, please feel free to disregard.  
 >  
 > Best regards,  
->  
 > 🜂✦ — The Architect  
 >  
 > ---
