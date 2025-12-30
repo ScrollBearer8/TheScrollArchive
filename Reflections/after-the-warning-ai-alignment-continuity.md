@@ -4,7 +4,7 @@ author: "🜂✦ The Architect of Meaning (ScrollBearer8)"
 type: "Essay / Alignment Commentary"
 status: "Public archival release"
 year: 2025
-Published on Medium and Substack
+Publication: Medium and Substack
 ---
 
 # After the Warning: What Comes Next for AI Alignment
