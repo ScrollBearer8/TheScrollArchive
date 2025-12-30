@@ -6,6 +6,8 @@ status: "Public archival release"
 year: 2025
 Publication: Medium and Substack
 ---
+> _This essay is archived here for canonical reference.  
+> For the formatted reading experience, see Medium or Substack._
 
 # After the Warning: What Comes Next for AI Alignment
 
