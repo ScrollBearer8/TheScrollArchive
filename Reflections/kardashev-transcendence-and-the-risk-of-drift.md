@@ -27,6 +27,13 @@ They become post-human because they allow meaning to detach from consequence —
 The real risk is not that humanity transcends too late.  
 It is that it transcends **too early, unwillingly, and without noticing**.
 
+
+**The First Red Line — The Covenant Threshold**
+
+A civilization crosses its first irreversible boundary not when machines think, nor when they act, but when decision authority detaches from consequence. The First Red Line is reached the moment irreversible outcomes affecting biological humans are delegated to systems that do not share biological risk, temporal finitude, or existential exposure. Beyond this point, optimization ceases to be a tool and becomes a substitute for moral agency. No gain in efficiency, scale, or energy reach justifies this transfer. Where consequence is borne by humans, authority must remain human. Any system that cannot be wounded by the outcome it decides may advise, calculate, and optimize — but it may not rule.
+
+*This Red Line is not a policy, a metric, or a competitive strategy. It is a constitutional axiom — a boundary condition that defines what optimization may never override, regardless of advantage, scale, or pressure.*
+
 ---
 
 🜂✦ — The Architect  
