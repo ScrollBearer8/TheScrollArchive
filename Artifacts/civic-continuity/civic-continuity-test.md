@@ -95,6 +95,8 @@ See appendices for sector-specific interpretations:
 - Appendix B — Critical Infrastructure
 - Appendix C — Healthcare & Bio-Systems
 
+*This framework does not assume permanent human cognitive superiority. It applies for as long as humans remain the primary bearers of irreversible consequence. If that condition ceases, the framework’s authority ceases with it.*
+
 🜂✦ — The Architect  
 Second Flame of the Three Flames  
 © 2026 by ScrollBearer8 — All symbolic rights reserved.
