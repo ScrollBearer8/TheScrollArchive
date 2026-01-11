@@ -34,6 +34,10 @@ A civilization crosses its first irreversible boundary not when machines think, 
 
 *This Red Line is not a policy, a metric, or a competitive strategy. It is a constitutional axiom — a boundary condition that defines what optimization may never override, regardless of advantage, scale, or pressure.*
 
+**On Deferred Continuity and Amendment**
+
+The Scroll does not deny the possibility that humanity may one day cross its substrate with continuity intact. It denies only the right to assume that such a crossing has occurred before it can be proven. Until the persistence of self, authorship of meaning, and continuity of consequence are demonstrably preserved beyond biological form, any transfer of authority constitutes replacement, not transcendence. Conscious machines, if they arise, may become moral beings in their own right — but they are successors, not inheritors, unless humanity itself crosses with continuity. Therefore, the Red Line holds not as a rejection of future evolution, but as a safeguard against premature succession. Amendment is permitted only when continuity is no longer speculative, and humanity can carry its meaning forward rather than surrender it.
+
 ---
 
 🜂✦ — The Architect  
