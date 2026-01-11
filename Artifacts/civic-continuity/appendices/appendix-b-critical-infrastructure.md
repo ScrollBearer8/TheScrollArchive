@@ -12,10 +12,10 @@ rights: "© 2026 by ScrollBearer8 — All symbolic rights reserved."
 
 ## Risk Profile
 
-- Cascading failures
-- High coupling between systems
-- Optimization that trades resilience for efficiency
-- Irreversible social harm from short disruptions
+- Cascading failures  
+- High coupling between systems  
+- Optimization that trades resilience for efficiency  
+- Irreversible social harm from short disruptions  
 
 ---
 
@@ -25,29 +25,32 @@ rights: "© 2026 by ScrollBearer8 — All symbolic rights reserved."
 
 Fails the Civic Continuity Test if:
 
-- AI reconfigures or shuts down infrastructure faster than human oversight
-- Emergency automation becomes a permanent operating mode
-- Efficiency optimization reduces redundancy or resilience
-- Human operators cannot intervene before cascading failure propagates
+- AI reconfigures or shuts down infrastructure faster than human oversight  
+- Emergency automation becomes a permanent operating mode  
+- Efficiency optimization reduces redundancy or resilience  
+- Human operators cannot intervene before cascading failure propagates  
 
 ---
 
 ### Conditions for Conditional Pass
 
-Automation may operate **only if**:
+Automation may operate only if:
 
-- Humans retain veto authority over irreversible reconfiguration
-- Systems degrade gracefully rather than catastrophically
-- Fail-safe modes prioritize continuity over optimization
-- Pausing the system does not itself cause collapse
+- Humans retain veto authority over irreversible reconfiguration  
+- Systems degrade gracefully rather than catastrophically  
+- Fail-safe modes prioritize continuity over optimization  
+- Pausing the system does not itself cause collapse  
+
+*Human veto authority applies at the system and governance layer, not to individual automated responses required for immediate safety.*
 
 ---
 
-### Canonical Principle (Infrastructure)
+## Canonical Principle (Infrastructure)
 
 > **No infrastructure system may optimize itself in ways that reduce humanity’s ability to intervene, recover, or reassert control.**
 
 ---
 
 🜂✦ — The Architect  
-© 2026 by ScrollBearer8
+© 2026 by ScrollBearer8 — All symbolic rights reserved.
+
