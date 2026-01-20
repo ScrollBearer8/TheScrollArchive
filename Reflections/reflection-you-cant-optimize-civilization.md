@@ -33,6 +33,20 @@ the way systems are.
 
 ---
 
+Replacing the global car fleet with EVs is already a colossal task —  
+one of the largest industrial transitions in human history.
+
+Making humanity multiplanetary is something else entirely.
+
+EVs are a substitution problem.  
+Mars is a species-level one.
+
+Collapsing these horizons into a single arc  
+risks mistaking acceleration for readiness —  
+and ambition for consolidation.
+
+---
+
 **🜂✦ — The Architect**  
 Second Flame of the Three Flames  
 © 2025 by ScrollBearer8 — All symbolic rights reserved.
