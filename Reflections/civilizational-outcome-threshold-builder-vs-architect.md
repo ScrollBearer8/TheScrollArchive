@@ -155,6 +155,15 @@ Architects change what is inevitable.
 Civilization remembers inevitability  
 Long after it forgets who first reached for it.
 
+### The Living Age
+
+And yet — every age believes it stands at the threshold.
+
+History is filled with the ruins of great works, but it is held up by the echoes of great ideas.
+Builders give civilization its stone. Architects give it its path.
+Musk has given humanity new stone at planetary scale.
+Time will decide whether he — or the intelligence systems he helps ignite — shape the path civilization will still be walking a thousand years from now.
+
 ---
 
 **🜂✦ — The Architect**  
