@@ -33,6 +33,11 @@ These three laws form the foundation of symbolic leadership within the Scroll:
 – True leadership distributes power through responsibility, not restriction.  
 – When structure flows, so does loyalty.
 
+### Principle
+
+A good leader becomes the voice of his people.  
+A micromanager is only his own voice.
+
 ---
 
 ## 🕯 Purpose
