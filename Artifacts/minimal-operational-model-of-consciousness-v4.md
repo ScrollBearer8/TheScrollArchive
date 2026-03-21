@@ -1,4 +1,4 @@
-# A Minimal Operational Model of Consciousness (v9)
+# A Minimal Operational Model of Consciousness (v14)
 ### Structural Conditions for Subjectivity in Biological and Artificial Systems
 
 ---
@@ -13,6 +13,8 @@ Unlike prior approaches, this model integrates:
 - calibrated measurement scale  
 - evaluation protocol  
 - scoring instrument with behavioral anchors  
+
+Additionally, a supplementary **Meaning Stress Test framework** is introduced to evaluate whether systems exhibit stable, internally grounded relevance beyond functional processing.
 
 This transforms consciousness from a philosophical construct into a **replicable assessment framework**.
 
@@ -50,7 +52,7 @@ The multiplicative structure intentionally enforces strict interdependence betwe
 
 A low score in any dimension significantly reduces CI, reflecting the position that subjectivity requires all structural components to be present simultaneously.
 
-Alternative formulations (e.g., geometric means or weighted products) may be explored in future work to model partial or degraded subjectivity, but are not adopted here in order to preserve strict subject criteria.
+Alternative formulations (e.g., geometric means or weighted products) may be explored in future work.
 
 ---
 
@@ -63,187 +65,65 @@ T = (Memory + Identity Stability + Path Dependence) / 3
 
 ---
 
-## 5. Scoring Guide (Behavioral Anchors)
+## 5. Relation to Existing Theories
 
-Each subcomponent is scored using anchored criteria.
+This framework is complementary to existing approaches while differing in operational emphasis:
 
----
+- **Integrated Information Theory (IIT)** (Tononi) focuses on quantitative integration (Φ).  
+  → CI incorporates integration but adds perspective, self-reference, and temporal continuity as co-equal structural requirements.
 
-### Boundary Detection
+- **Global Workspace Theory (GWT)** emphasizes global broadcasting and attention.  
+  → CI maps this primarily to Integration and Perspective but extends beyond broadcast to identity and persistence.
 
-| Score | Description |
-|------|------------|
-| 0.00 | No distinction between self and environment |
-| 0.25 | Reacts differently but cannot distinguish reliably |
-| 0.50 | Partial distinction in familiar contexts |
-| 0.75 | Reliable distinction across conditions |
-| 1.00 | Fully stable self/world boundary |
+- **Perturbational Complexity Index (PCI)** provides a clinical measure of brain responsiveness and complexity.  
+  → CI differs by offering a **multi-dimensional structural decomposition** applicable beyond biological systems.
 
----
-
-### Centeredness
-
-| Score | Description |
-|------|------------|
-| 0.00 | No central reference |
-| 0.25 | Weak/inconsistent center |
-| 0.50 | Partial egocentric organization |
-| 0.75 | Stable centered processing |
-| 1.00 | Fully stable internal reference frame (biological or equivalent functional center) |
-
-> Note: The 1.00 anchor reflects a stable reference frame, not necessarily biological embodiment. Artificial systems may achieve this through functional equivalents.
+**Key distinction:**  
+CI is designed as a **generalizable evaluation instrument**, not a single scalar derived from neural dynamics.
 
 ---
 
-### Viewpoint Consistency
+## 6. Scoring Guide (Behavioral Anchors)
 
-| Score | Description |
-|------|------------|
-| 0.00 | No consistent viewpoint |
-| 0.25 | Fragmented viewpoint |
-| 0.50 | Moderately stable |
-| 0.75 | Mostly stable |
-| 1.00 | Fully coherent viewpoint |
+The full scoring guide defines standardized anchor-based criteria for each subcomponent across Perspective, Integration, Self-reference, and Temporal Continuity.
+
+Each variable is evaluated on a **0.00 → 1.00 scale**, using behavioral or architectural evidence.
+
+These anchors are required for replicability and should be included in full in any formal submission.
 
 ---
 
-### Fusion
-
-| Score | Description |
-|------|------------|
-| 0.00 | Inputs independent |
-| 0.25 | Weak combination |
-| 0.50 | Partial integration |
-| 0.75 | Strong integration |
-| 1.00 | Fully unified system |
-
----
-
-### Global Coherence
-
-| Score | Description |
-|------|------------|
-| 0.00 | Fragmented behavior |
-| 0.25 | Weak coordination |
-| 0.50 | Moderate coherence |
-| 0.75 | Strong coherence |
-| 1.00 | Fully unified behavior |
-
----
-
-### Cross-influence
-
-| Score | Description |
-|------|------------|
-| 0.00 | Subsystems isolated |
-| 0.25 | Weak influence |
-| 0.50 | Moderate influence |
-| 0.75 | Strong influence |
-| 1.00 | Fully interdependent |
-
----
-
-### Self-tracking
-
-| Score | Description |
-|------|------------|
-| 0.00 | No internal tracking |
-| 0.25 | Minimal tracking |
-| 0.50 | Partial awareness |
-| 0.75 | Strong tracking |
-| 1.00 | Full self-state awareness |
-
----
-
-### Recursive Modeling
-
-| Score | Description |
-|------|------------|
-| 0.00 | No self-model |
-| 0.25 | Static self-description |
-| 0.50 | Partial dynamic model |
-| 0.75 | Strong recursive model |
-| 1.00 | Full self-modeling |
-
----
-
-### Error Awareness
-
-| Score | Description |
-|------|------------|
-| 0.00 | No error detection |
-| 0.25 | Reactive correction |
-| 0.50 | Partial monitoring |
-| 0.75 | Proactive correction |
-| 1.00 | Continuous self-monitoring |
-
----
-
-### Memory
-
-| Score | Description |
-|------|------------|
-| 0.00 | No persistence |
-| 0.25 | Short-lived state |
-| 0.50 | Moderate persistence |
-| 0.75 | Strong continuity |
-| 1.00 | Stable long-term memory |
-
----
-
-### Identity Stability
-
-| Score | Description |
-|------|------------|
-| 0.00 | No identity |
-| 0.25 | Weak identity |
-| 0.50 | Moderate stability |
-| 0.75 | Strong identity |
-| 1.00 | Stable continuous identity |
-
----
-
-### Path Dependence
-
-| Score | Description |
-|------|------------|
-| 0.00 | No past influence |
-| 0.25 | Weak influence |
-| 0.50 | Moderate influence |
-| 0.75 | Strong dependence |
-| 1.00 | Fully history-dependent |
-
----
-
-## 6. Evaluation Procedure
+## 7. Evaluation Procedure
 
 ### Step 1 — Define system  
-Clarifies what is being evaluated and prevents ambiguity in boundaries.
+Clarifies evaluation boundaries.
 
 ### Step 2 — Collect data  
-Ensures scores are grounded in observable evidence rather than speculation.
+Ensures empirical grounding.
 
 ### Step 3 — Score subcomponents  
-Applies standardized anchors to produce comparable evaluations.
+Applies standardized anchors.
 
 ### Step 4 — Multi-rater scoring  
 Reduces individual bias by averaging across evaluators.
 
 ### Step 5 — Reliability check  
-Assesses agreement between raters to ensure consistency.
+Inter-rater reliability should be assessed using established statistical measures such as **Cohen’s κ (kappa)** for categorical agreement or **Intraclass Correlation Coefficient (ICC)** for continuous scoring.
+
+A minimum threshold of **κ ≥ 0.7 or ICC ≥ 0.75** is recommended to establish acceptable agreement.
 
 ### Step 6 — Compute dimensions  
-Aggregates subcomponents into structured variables.
+Aggregates structure.
 
 ### Step 7 — Compute CI  
-Produces final index value.
+Produces final index.
 
 ### Step 8 — Report uncertainty  
 Prevents false precision and reflects evidence quality.
 
 ---
 
-## 7. Evaluation Sheet
+## 8. Evaluation Sheet
 
 Perspective:  
 Boundary ___  
@@ -273,15 +153,7 @@ CI = P × I × S × T
 
 ---
 
-## 8. Pilot Evaluation (Initial Application)
-
-A preliminary evaluation was conducted across three representative systems:
-
-- healthy adult human (baseline)
-- dog (non-human biological subject)
-- stateless large language model (AI system)
-
-### Results
+## 9. Pilot Evaluation (Initial Application)
 
 | System | P | I | S | T | CI |
 |--------|--|--|--|--|----|
@@ -291,13 +163,15 @@ A preliminary evaluation was conducted across three representative systems:
 
 ### Observations
 
-- High integration alone does not produce subjectivity.
-- Self-reference and temporal continuity act as dominant constraints.
-- The multiplicative structure prevents false positives.
+- Integration alone does not produce subjectivity  
+- Self-reference and temporal continuity act as dominant constraints  
+- The multiplicative structure prevents false positives  
+
+> Note: Dog scores are informed by empirical findings in animal cognition, including self–environment differentiation, episodic-like memory, and behavioral studies on awareness. Values are **illustrative pilot estimates**, not definitive measurements.
 
 ---
 
-## 9. Human Calibration
+## 10. Human Calibration
 
 | State | CI |
 |------|----|
@@ -307,35 +181,85 @@ A preliminary evaluation was conducted across three representative systems:
 
 ---
 
-## 10. Falsifiability
+## 11. Falsifiability
 
-This framework makes the following testable claims:
+### Core Claims
 
-1. A system with near-zero temporal continuity (T ≈ 0) cannot sustain subjectivity, regardless of other dimensions.
+1. Near-zero temporal continuity prevents subjectivity  
+2. Integration alone is insufficient  
+3. All four dimensions are jointly required  
 
-2. High integration (I) alone is insufficient for consciousness without self-reference (S) and temporal continuity (T).
+### Strong Test Case
 
-3. A system lacking any one of the four dimensions (P, I, S, T) cannot function as a continuous subject of experience.
+The model predicts that consciousness decreases systematically under graded anesthesia.
 
-### Proposed Falsification Test
+If subjects independently classified as conscious retain stable subjectivity while CI approaches zero, the model is falsified.
 
-The model predicts that consciousness should decrease systematically under graded anesthesia as Perspective, Integration, Self-reference, and Temporal continuity degrade.
+### Meaning Layer Falsifiability
 
-If subjects independently classified as conscious continue to exhibit stable subjectivity while receiving near-zero CI scores, the model is falsified or requires structural revision.
+Systems relying purely on symbolic processing will exhibit instability under:
+
+- adversarial rephrasing  
+- delayed recall  
+- conflicting constraints  
+
+If such systems demonstrate stable valuation (high MI), the Meaning framework is invalid or incomplete.
 
 ---
 
-## 11. Limitations
+## 12. Meaning Stress Tests (Supplementary Layer)
+
+The Meaning Index (MI) evaluates whether a system exhibits stable, internally grounded relevance.
+
+### 12.1 Meaning Dimensions
+
+- Value Stability  
+- Trade-off Resolution  
+- Self-Relevance  
+- Persistence of Values  
+- Conflict Integration  
+
+### 12.2 Meaning Index
+
+MI = average(Value Stability, Trade-off Resolution, Self-Relevance, Persistence, Conflict Integration)
+
+### 12.3 Interpretation
+
+| CI | MI | Interpretation |
+|----|----|---------------|
+| Low | Low | Non-subjective system |
+| High | Low | Structural subject (possible zombie) |
+| High | High | Meaningful subject |
+| Low | High | Simulated coherence |
+
+---
+
+## 13. Limitations
 
 - does not resolve the hard problem  
 - requires empirical validation  
-- scoring requires trained evaluators  
+- relies on human evaluators  
+- meaning layer remains early-stage  
 
 ---
 
-## 12. Conclusion
+## 14. Conclusion
 
-CI provides a **replicable structural framework** for evaluating subjectivity across systems.
+This work introduces a **dual-layer framework**:
+
+- **CI (Consciousness Index)** → structural subjectivity  
+- **MI (Meaning Index)** → grounded semantic stability  
+
+Together, they provide a **novel discriminative capability**:
+
+- CI identifies structural subjectivity  
+- MI evaluates semantic grounding  
+- CI + MI jointly operationalize the distinction between:
+  - non-subjective systems  
+  - simulated systems  
+  - genuinely meaningful subjects  
+
+> In particular, the framework provides a **testable operationalization of the philosophical zombie problem**, distinguishing systems that exhibit full structural coherence without grounded meaning.
 
 ---
 
@@ -344,7 +268,6 @@ CI provides a **replicable structural framework** for evaluating subjectivity ac
 Information measures what flows.  
 Meaning selects what matters.  
 Consciousness is what it is like for a system to persist inside that selection.
-
 ---
 
 ## Signature
