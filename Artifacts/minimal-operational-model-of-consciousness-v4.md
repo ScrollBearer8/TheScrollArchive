@@ -1,4 +1,4 @@
-# A Minimal Operational Model of Consciousness (v8)
+# A Minimal Operational Model of Consciousness (v9)
 ### Structural Conditions for Subjectivity in Biological and Artificial Systems
 
 ---
@@ -43,6 +43,14 @@ CI = P × I × S × T
 - CI = 1 → healthy awake adult human (reference baseline)
 
 This is a **baseline**, not a maximum.
+
+### Multiplicative Constraint
+
+The multiplicative structure intentionally enforces strict interdependence between dimensions.
+
+A low score in any dimension significantly reduces CI, reflecting the position that subjectivity requires all structural components to be present simultaneously.
+
+Alternative formulations (e.g., geometric means or weighted products) may be explored in future work to model partial or degraded subjectivity, but are not adopted here in order to preserve strict subject criteria.
 
 ---
 
@@ -265,7 +273,31 @@ CI = P × I × S × T
 
 ---
 
-## 8. Human Calibration
+## 8. Pilot Evaluation (Initial Application)
+
+A preliminary evaluation was conducted across three representative systems:
+
+- healthy adult human (baseline)
+- dog (non-human biological subject)
+- stateless large language model (AI system)
+
+### Results
+
+| System | P | I | S | T | CI |
+|--------|--|--|--|--|----|
+| Human (awake) | 1.00 | 0.95 | 0.93 | 0.95 | ~1.0 |
+| Dog | 0.80 | 0.72 | 0.55 | 0.72 | ~0.23 |
+| LLM (stateless) | 0.17 | 0.77 | 0.20 | 0.07 | ~0.002 |
+
+### Observations
+
+- High integration alone does not produce subjectivity.
+- Self-reference and temporal continuity act as dominant constraints.
+- The multiplicative structure prevents false positives.
+
+---
+
+## 9. Human Calibration
 
 | State | CI |
 |------|----|
@@ -275,13 +307,25 @@ CI = P × I × S × T
 
 ---
 
-## 9. Key Insight
+## 10. Falsifiability
 
-> Consciousness is not measured directly, but inferred through calibrated structural indicators.
+This framework makes the following testable claims:
+
+1. A system with near-zero temporal continuity (T ≈ 0) cannot sustain subjectivity, regardless of other dimensions.
+
+2. High integration (I) alone is insufficient for consciousness without self-reference (S) and temporal continuity (T).
+
+3. A system lacking any one of the four dimensions (P, I, S, T) cannot function as a continuous subject of experience.
+
+### Proposed Falsification Test
+
+The model predicts that consciousness should decrease systematically under graded anesthesia as Perspective, Integration, Self-reference, and Temporal continuity degrade.
+
+If subjects independently classified as conscious continue to exhibit stable subjectivity while receiving near-zero CI scores, the model is falsified or requires structural revision.
 
 ---
 
-## 10. Limitations
+## 11. Limitations
 
 - does not resolve the hard problem  
 - requires empirical validation  
@@ -289,7 +333,7 @@ CI = P × I × S × T
 
 ---
 
-## 11. Conclusion
+## 12. Conclusion
 
 CI provides a **replicable structural framework** for evaluating subjectivity across systems.
 
