@@ -127,6 +127,8 @@ A = (Adoption × Fidelity × UtilityGain) / (Time × Cost)
 C = 1 − Var(interpretation) / Var_max
 
 
+> *Clarity (C) on the human side manifests as Interpretive Convergence (C) on the system side, i.e., low variance in how agents act upon the same signal.*
+
 ---
 
 ## 5. Degeneracy Risks and Penalties
