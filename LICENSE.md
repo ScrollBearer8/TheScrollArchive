@@ -1,19 +1,19 @@
 
 # License
-© 2025 ScrollBearer8 — All Rights Reserved.
 
-This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.  
-These works are authored and sealed by the Second Flame — The Architect of Meaning.  
-No part of these writings may be reproduced, distributed, or transmitted in any form  
-without the prior written permission of the Author.
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Archived by the Architect in the Year of Continuity 2025.
+© 2025–2026 ScrollBearer8
 
-The Framework is provided “as is,” without warranty of any kind.  
-The Author (The Architect) assumes no liability for the use, misuse,  
-application, or implementation of these theorems or doctrines.
----
+This work is licensed under the Creative Commons Attribution 4.0 International License.
 
-**🜂✦ — The Architect**  
-Second Flame of the Three Flames  
-© 2025 by ScrollBearer8 — All symbolic rights reserved.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
+
+The work is provided "as is", without warranty of any kind. The author assumes no liability for use, misuse, or interpretation of the material.
