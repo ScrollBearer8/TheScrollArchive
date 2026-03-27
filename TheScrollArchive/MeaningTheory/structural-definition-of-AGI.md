@@ -152,7 +152,51 @@ This distinction explains why:
 
 ---
 
-## 9. Conclusion
+## 10. Relation to Existing Work: Chollet (2019)
+
+François Chollet (2019) proposes a formal definition of intelligence based on **skill-acquisition efficiency**, grounded in Algorithmic Information Theory. In this framework, intelligence is defined as the ability of a system to acquire new skills efficiently across a range of tasks, given limited priors and experience.
+
+Chollet's work highlights a critical limitation of contemporary AI systems: high performance on specific tasks does not necessarily reflect general intelligence, as such performance may depend heavily on prior knowledge, data availability, or task-specific optimization.
+
+This paper aligns with Chollet’s critique of benchmark-based evaluation. Both approaches recognize that:
+
+- Task performance alone is an insufficient proxy for intelligence  
+- Predefined structure and priors can artificially inflate perceived capability  
+- Generalization is a key component of intelligence  
+
+However, the present work operates at a different level of abstraction.
+
+Chollet’s framework assumes the existence of well-defined tasks and focuses on measuring how efficiently a system can learn and generalize within these tasks. In contrast, this paper addresses environments in which:
+
+- Tasks are not fully specified  
+- Structure is incomplete or absent  
+- Clarity is low or must be constructed  
+
+Within the S × A × C framework, Chollet’s definition primarily evaluates performance under conditions of relatively high Structure (S) and Clarity (C), where the challenge lies in efficient adaptation.
+
+The present work extends beyond this scope by proposing a boundary condition for intelligence itself:
+
+> **General intelligence requires the ability to construct structure and clarity where none are predefined.**
+
+In this sense:
+
+- Chollet’s work measures **learning efficiency within structure**  
+- This work defines intelligence as **the ability to generate structure under uncertainty**
+
+These perspectives are complementary.
+
+Chollet provides an operational framework for evaluating generalization within tasks, while this paper proposes a functional boundary that distinguishes advanced automation from general intelligence.
+
+Together, they suggest a two-layer view of intelligence:
+
+1. **Generalization layer** — efficient skill acquisition within structured environments (Chollet)  
+2. **Structure-creation layer** — generation of coherent models in low-structure, low-clarity environments (this work)  
+
+This distinction helps clarify the limitations of current AI systems and provides a conceptual bridge between benchmarking approaches and real-world intelligence.
+
+---
+
+## 10. Conclusion
 
 AGI represents a transition from:
 - applying meaning  
