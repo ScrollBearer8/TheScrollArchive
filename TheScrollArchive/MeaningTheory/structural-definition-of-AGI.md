@@ -152,7 +152,7 @@ This distinction explains why:
 
 ---
 
-## 10. Relation to Existing Work: Chollet (2019)
+## 9. Relation to Existing Work: Chollet (2019)
 
 François Chollet (2019) proposes a formal definition of intelligence based on **skill-acquisition efficiency**, grounded in Algorithmic Information Theory. In this framework, intelligence is defined as the ability of a system to acquire new skills efficiently across a range of tasks, given limited priors and experience.
 
