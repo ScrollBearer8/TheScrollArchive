@@ -194,15 +194,93 @@ Together, they suggest a two-layer view of intelligence:
 
 This distinction helps clarify the limitations of current AI systems and provides a conceptual bridge between benchmarking approaches and real-world intelligence.
 
+
 ---
 
-## 10. Conclusion
+## 10. Toward Structure-Generating Systems
 
-AGI represents a transition from:
-- applying meaning  
-→ to constructing meaning  
+The Structure-Creation Boundary implies not only a definition of AGI, but also a direction for system design.
 
-> **AGI begins when a system can build the structure it requires, rather than rely on structure it is given.**
+Current AI systems operate under a dependency:
+
+> Human-provided Structure (S) and Clarity (C) → AI Amplification (A)
+
+In this paradigm, the system scales predefined meaning but does not originate it.
+
+Crossing the Structure-Creation Boundary requires inverting this dependency.
+
+A general intelligence system must be capable of:
+
+- generating Structure (S) internally  
+- refining Clarity (C) through interaction  
+- operating under uncertainty without fabricating false structure  
+
+This implies the need for a feedback-driven architecture:
+
+1. The system acts under conditions of low structure and low clarity  
+2. It receives signal from the environment  
+3. It updates its internal structure (S)  
+4. It refines its clarity (C)  
+5. It repeats this loop until coherent behavior emerges  
+
+This iterative process transforms low-definition environments into structured, actionable representations.
+
+A critical limitation of current systems is their inability to tolerate low-structure states. When clarity is insufficient, they tend to fabricate structure ("hallucination") rather than acknowledge uncertainty and reconstruct it through feedback.
+
+A structure-generating system must therefore include:
+
+- explicit representation of uncertainty  
+- the ability to defer action when structure is insufficient  
+- mechanisms for updating internal models based on real-world signal  
+- separation between structure-building and amplification processes  
+
+This suggests that AGI is not achieved through scaling alone, but through architectures that treat low-structure, low-clarity environments as the starting condition of intelligence rather than a failure mode.
+
+
+---
+
+## 11. Implications for Alignment
+
+The Structure-Creation Boundary reframes the alignment problem.
+
+Current alignment approaches—including reinforcement learning from human feedback (RLHF) and rule-based constraint systems—operate under conditions of relatively high structure and clarity. These methods assume that desired behavior can be specified in advance and that systems can be trained to act within predefined frameworks.
+
+However, a system capable of generating its own structure introduces a fundamental shift.
+
+> Alignment is no longer a problem of controlling outputs, but of constraining the process by which structure itself is created.
+
+A structure-generating system does not merely act within a given framework—it can construct new frameworks, including implicit value systems that were not explicitly defined.
+
+This leads to a critical implication:
+
+> Alignment methods that depend on predefined structure may fail precisely at the point where general intelligence begins.
+
+In this context:
+- alignment cannot be reduced to behavioral constraints  
+- values must influence the process of structure generation  
+- uncertainty must be explicitly managed rather than masked  
+
+This suggests that alignment must move from:
+- output-level control  
+→ to **structure-level constraint**
+
+A full treatment of this problem is beyond the scope of this paper, but it represents a key direction for future work.
+
+---
+
+## 12. Conclusion
+
+This paper proposed a functional definition of Artificial General Intelligence based on structural capability.
+
+Using the model M = S × A × C, we showed that current AI systems operate primarily as structure amplifiers, performing well in environments where structure and clarity are predefined.
+
+We defined the Structure-Creation Boundary as the point at which a system can construct and refine its own internal structure under conditions of low clarity and uncertainty.
+
+This boundary distinguishes advanced automation from general intelligence.
+
+The implications extend beyond capability into system design and alignment. As systems approach this boundary, the challenge shifts from applying structure to generating it, and from controlling outputs to constraining the process by which meaning itself is constructed.
+
+Understanding and addressing this transition is central to the future development of AI.
 
 ---
 
