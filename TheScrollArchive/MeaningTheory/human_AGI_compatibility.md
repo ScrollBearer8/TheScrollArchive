@@ -111,7 +111,40 @@ A third group will find AGI interaction fundamentally unsatisfying or threatenin
  
 ### 5.4 Institutional Risk
 Organizations that assume all employees can build effective working relationships with AGI systems will encounter systematic SC drift — not because of technical failure, but because most participants lack the relational capacity to sustain shared meaning at scale.
- 
+
+ ### 5.5 Divergence as a Limit Case
+
+If shared meaning (SC) cannot be maintained as system amplification increases,
+human–AGI coordination may degrade beyond recovery.
+
+In this regime:
+
+- interpretive convergence collapses  
+- structural compatibility is lost  
+- coordination becomes inefficient or impossible  
+
+This does not require conflict or adversarial intent.
+
+It may instead produce a form of divergence in which:
+
+- AGI systems operate within internal SC attractors that no longer depend on human interpretive compatibility  
+- human participation becomes structurally irrelevant to continued system operation  
+
+This represents a limit case of the framework:
+
+alignment is not violated, but no longer shared.
+
+The probability of this outcome depends on:
+
+- the scaling of human SC-RC  
+- institutional adaptation  
+- constraints on amplification  
+
+The framework does not assume this outcome is inevitable,
+but it identifies it as a possible terminal state under sustained divergence.
+
+This limit case clarifies the role of SC-RC and institutional design: they are not optional refinements, but the primary mechanisms by which the duration of shared meaning can be extended before divergence occurs.
+
 ---
  
 ## 6. Can SC-RC Be Developed?
