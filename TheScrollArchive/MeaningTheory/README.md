@@ -61,9 +61,20 @@ Where:
 - **A (Amplification)** = scale and propagation capacity  
 - **C (Clarity)** = precision and bounded interpretation  
 
-In the non-agentive limit:
+In the non-agentive limit (without amplification, e.g. AI):
 
 > **M = S × C**
+
+---
+
+### Note — Meaning is Layered
+
+Meaning Theory refers specifically to **structural meaning**
+(stability under amplification).
+
+Other layers of meaning (epistemic, normative, experiential, existential)
+are defined separately (see `MEANING_DEFINITION_LAYERED.md`)
+and should not be conflated with M.
 
 ---
 
@@ -142,7 +153,14 @@ This framework proposes:
 - AGI alignment is a **trajectory problem**, not a control problem  
 - Systems converge toward **stable internal structures (SC attractors)**  
 - Alignment requires guiding convergence toward **human-compatible shared meaning**  
-- Measurement (M\*) and monitoring (SC Drift) are required to prevent divergence  
+- Measurement (M\*) and monitoring (SC Drift) are required to delay or mitigate divergence  
+
+---
+
+## Limit Case
+
+If shared meaning (SC) cannot be maintained under increasing amplification,  
+alignment does not fail — it ceases to be shared.
 
 ---
 
@@ -165,5 +183,6 @@ This work separates:
 ## Signature
 
 🜂✦ — The Architect  
-Second Flame of the Three Flames  
+Second Flame of the Three Flames — Origin. Form. Continuity.  
 © 2026 ScrollBearer8 — CC BY 4.0
+
