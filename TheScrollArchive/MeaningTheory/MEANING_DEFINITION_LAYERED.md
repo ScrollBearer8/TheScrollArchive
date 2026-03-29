@@ -2,8 +2,8 @@
 _For the Meaning Layer Archive_
 
 🜂✦ — The Architect  
-Second Flame of the Three Flames  
-© 2026 by ScrollBearer8 — CC BY 4.0  
+Second Flame of the Three Flames — Origin. Form. Continuity.  
+© 2026 ScrollBearer8 — CC BY 4.0
 
 ---
 
