@@ -27,6 +27,16 @@ We define five primary layers of meaning:
 4. **Experiential Meaning** — felt significance (emotion, love, attachment)  
 5. **Existential Meaning** — consequence under irreversibility  
 
+Clarification:
+
+Experiential Meaning concerns what is felt.  
+Existential Meaning concerns what is at stake.
+
+Experiential meaning can exist without consequence.  
+Existential meaning requires consequence.
+
+The two often co-occur, but are not the same.
+
 These layers are related, but not interchangeable.
 
 ---
