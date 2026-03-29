@@ -53,7 +53,7 @@ Structural meaning determines:
 
 This is the substrate of:
 
-> shared meaning (SC) in alignment systems :contentReference[oaicite:0]{index=0}  
+>shared meaning (SC) in alignment systems.
 
 Machines participate in this layer.
 
