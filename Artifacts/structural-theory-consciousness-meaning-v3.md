@@ -44,14 +44,15 @@ The goal is not to prove consciousness, but to constrain when it is most plausib
 
 ## 3. Layered Ontology
 
-| Layer | Definition |
-| :--- | :--- |
-| **Being** | what exists |
-| **Information** | what is structured |
-| **Meaning** | what is selected / matters |
-| **Consciousness** | what experiences |
+| Layer | Definition | Key Thinker |
+| :--- | :--- | :--- |
+| **Physics** | what exists and what constraints govern it | Boltzmann, thermodynamics |
+| **Computation** | what processes are possible within those constraints | Turing, Church |
+| **Information** | what is structured within those processes | Shannon (1948) |
+| **Meaning** | what is selected / matters | ScrollBearer8 |
+| **Consciousness** | what experiences | Open problem |
 
-This work focuses on the transition from structure → subjectivity → intrinsic meaning.
+This work focuses on the transition from information → meaning → subjectivity → intrinsic meaning.
 
 ## 4. Minimum Viable Definition (MVD)
 Consciousness is the capacity of a system to maintain a unified, self-referential perspective over time that integrates information into a continuous internal experience.
