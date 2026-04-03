@@ -30,6 +30,8 @@ Here this is not presented as a final law, but as a working lens:
 - **A (Amplification)** — how far a system can extend that idea: scale, capability, parametric and algorithmic power  
 - **C (Clarity)** — how precisely the intent and constraints are specified: boundaries, questions, and goals that are not vague
 
+> **Note:** Context is not a primitive in the model; it influences Structure (S) and Clarity (C) upstream.
+
 Under this view:
 
 - If structure is thin (**S ≈ 0**), amplification produces **eloquence without weight**.  
