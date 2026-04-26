@@ -138,6 +138,7 @@ Thus existential meaning belongs to beings bound by:
 
 Machines possess none of these.
 
+> **Footnote.** This analysis applies to machines as currently constituted, which are not conscious. A conscious machine would fall outside the scope of this paper.
 ---
 
 ## VI. Distinction from Consciousness
