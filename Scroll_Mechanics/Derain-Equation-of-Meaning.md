@@ -354,8 +354,7 @@ It is a law of interaction in the autonomous age.
 
 ## 🧠 Addendum — The Turing–Searle Resolution
 
-The Derain Equation of Meaning (M = S × A × C) resolves a 70-year paradox
-that neither Turing nor Searle could fully close.
+The Derain Equation of Meaning (M = S × A × C), the core formulation of Meaning Theory, provides a candidate resolution to the tension between behavioral intelligence (Turing) and semantic understanding (Searle).
 
 ### 1. The Turing Lens — Intelligence as Indistinguishability
 Alan Turing showed that if a machine’s *output* is indistinguishable from a
