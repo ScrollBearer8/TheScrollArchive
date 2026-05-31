@@ -36,7 +36,7 @@ Under this view:
 
 - If structure is thin (**S ≈ 0**), amplification produces **eloquence without weight**.  
 - If clarity is missing (**C ≈ 0**), expansion produces **drift and contradiction**.  
-- If both **S and C** are present, amplification (scaling) does not blur meaning; **it reveals it**.
+- If both **S and C** are present, amplification does not blur meaning; **it reveals it**.
 
 AI did not invent this pattern.  
 It only accelerated the moment of exposure.
