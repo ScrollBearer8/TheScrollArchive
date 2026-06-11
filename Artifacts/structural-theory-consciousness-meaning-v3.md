@@ -54,6 +54,27 @@ The goal is not to prove consciousness, but to constrain when it is most plausib
 
 This work focuses on the transition from information → meaning → subjectivity → intrinsic meaning.
 
+### 3.1 Structural and Experiential Meaning
+
+The term meaning is used in two distinct senses throughout this framework.
+
+Structural Meaning refers to the organization, relations, and semantic constraints carried by information. Structural meaning can exist independently of consciousness and may be preserved across communication, computation, or storage systems.
+
+Examples include:
+
+language
+mathematical structures
+scientific theories
+symbolic representations
+
+Experiential Meaning refers to meaning as experienced by a subject. It emerges when information is integrated into a conscious perspective and becomes relevant to that subject's continued existence, goals, values, or identity.
+
+Structural meaning may exist without consciousness.
+
+Experiential meaning requires subjectivity and is strengthened by intrinsic consequence (C*).
+
+This distinction allows meaning to occupy a layer between information and consciousness while preserving the claim that consciousness is necessary for experiential significance.
+
 ## 4. Minimum Viable Definition (MVD)
 Consciousness is the capacity of a system to maintain a unified, self-referential perspective over time that integrates information into a continuous internal experience.
 
@@ -168,7 +189,7 @@ They are treated as theoretical control parameters, not empirically calibrated v
 **Intrinsic Meaning**
 * Intrinsic meaning arises when a subject is bound by intrinsic consequence.
 
-**Core Claim:** Meaning can exist without consciousness. Intrinsic meaning requires subjectivity under intrinsic consequence.
+**Core Claim:** Structural meaning can exist without consciousness. Intrinsic meaning requires subjectivity under intrinsic consequence.
 
 ## 9. Identity Structure: Organism, Subject, and Person
 
