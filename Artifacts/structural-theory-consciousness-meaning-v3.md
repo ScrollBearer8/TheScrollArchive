@@ -49,29 +49,45 @@ The goal is not to prove consciousness, but to constrain when it is most plausib
 | **Physics** | what exists and what constraints govern it | Boltzmann, thermodynamics |
 | **Computation** | what processes are possible within those constraints | Turing, Church |
 | **Information** | what is structured within those processes | Shannon (1948) |
-| **Meaning** | what is selected / matters | ScrollBearer8 |
+| **Meaning** | what acquires semantic significance | ScrollBearer8(this work, proposed) |
 | **Consciousness** | what experiences | Open problem |
 
-This work focuses on the transition from information → meaning → subjectivity → intrinsic meaning.
+This work focuses on the transition from:
+
+**Information → Meaning → Subjectivity → Intrinsic Meaning**
 
 ### 3.1 Structural and Experiential Meaning
 
-The term meaning is used in two distinct senses throughout this framework.
+The term **meaning** is used in two distinct senses throughout this framework.
+
+#### Structural Meaning
 
 Structural Meaning refers to the organization, relations, and semantic constraints carried by information. Structural meaning can exist independently of consciousness and may be preserved across communication, computation, or storage systems.
 
 Examples include:
 
-language
-mathematical structures
-scientific theories
-symbolic representations
-
-Experiential Meaning refers to meaning as experienced by a subject. It emerges when information is integrated into a conscious perspective and becomes relevant to that subject's continued existence, goals, values, or identity.
+- language
+- mathematical structures
+- scientific theories
+- symbolic representations
 
 Structural meaning may exist without consciousness.
 
+#### Experiential Meaning
+
+Experiential Meaning refers to meaning as experienced by a subject. It emerges when information is integrated into a conscious perspective and becomes relevant to that subject's:
+
+- continued existence
+- goals
+- values
+- identity
+
 Experiential meaning requires subjectivity and is strengthened by intrinsic consequence (C*).
+
+#### Core Distinction
+
+Structural meaning can exist without consciousness.
+Experiential meaning requires consciousness.
 
 This distinction allows meaning to occupy a layer between information and consciousness while preserving the claim that consciousness is necessary for experiential significance.
 
