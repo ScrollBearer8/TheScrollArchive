@@ -131,6 +131,8 @@ This necessity is structural rather than metaphysical: it specifies the conditio
 * **IIT** → Integration (I)
 * **GWT** → Integration (I) + Perspective (P)
 
+The Integration term (I) is consistent with IIT's Φ and could be operationalized by it; this framework does not compete with IIT on the measurement of integration. Its contribution lies in the Consequence constraint (C*), which IIT and GWT do not centrally operationalize: existing theories quantify or describe aspects of unified access/integration, but are not primarily concerned with whether outcomes are intrinsic, irreversible, or identity-shaping for that system.
+
 Extended by:
 * **Self-reference (S)** → subject identity
 * **Temporal continuity (T)** → persistence
@@ -186,6 +188,8 @@ Where:
 * multiplicative structure enforces interdependence
 * exponent scaling prevents binary collapse
 * allows graded subjectivity
+
+These equations are structural rather than operational: they express the interdependence of the dimensions and the shape of their interaction, not a measurement procedure. CI and Subjective Significance are intended as organizing formalisms, and the variables are not yet assigned empirical measurement protocols.
 
 ### 7.3 Interpretation of α and β
 The parameters α and β are scaling exponents, not fixed constants.
