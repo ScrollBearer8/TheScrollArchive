@@ -131,7 +131,7 @@ This necessity is structural rather than metaphysical: it specifies the conditio
 * **IIT** → Integration (I)
 * **GWT** → Integration (I) + Perspective (P)
 
-The Integration term (I) is consistent with IIT's Φ and could be operationalized by it; this framework does not compete with IIT on the measurement of integration. Its contribution lies in the Consequence constraint (C*), which IIT and GWT do not centrally operationalize: existing theories quantify or describe aspects of unified access/integration, but are not primarily concerned with whether outcomes are intrinsic, irreversible, or identity-shaping for that system.
+The Integration term (I) is consistent with IIT's Φ and could be operationalized by it; this framework does not compete with IIT on the measurement of integration. Its contribution lies in the Consequence constraint (C*). Existing theories quantify or describe unified access and integration, but do not treat intrinsic consequence — whether outcomes are irreversible and identity-shaping for the system — as the locus of intrinsic meaning.
 
 Extended by:
 * **Self-reference (S)** → subject identity
