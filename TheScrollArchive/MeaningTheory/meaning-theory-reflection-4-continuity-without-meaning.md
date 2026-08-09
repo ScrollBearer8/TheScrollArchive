@@ -37,7 +37,7 @@ This danger is not purely hypothetical.
 
 In an earlier Meaning Theory pilot, I tested six texts through 24 model–text runs, generating 100 successive paraphrases. The first four texts ran for three rounds across five language models, while two highly vague texts ran for ten rounds across two of those models.
 
-Highly structured texts preserved their named entities, numbers, and logical relations through the tested rounds. Moderately vague texts showed partial drift. Highly vague texts showed model-dependent drift under sustained iteration, with different models handling the same ambiguity in different ways.
+Highly structured texts preserved their named entities, numbers, and logical relations through the tested rounds. Moderately vague texts partially drifted. Highly vague texts showed model-dependent drift under sustained iteration—severe in some runs—with different models handling the same ambiguity in different ways.
 
 The study was small and exploratory. Its successive paraphrases were dependent steps within 24 chains, not 100 independent trials, and the results were author-rated. It did not establish a universal law. But it offered initial evidence that ambiguity is not neutral under amplification. When semantic structure is missing, different systems may supply different meanings.
 
