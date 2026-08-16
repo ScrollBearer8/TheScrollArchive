@@ -20,8 +20,14 @@ I found him patrolling:
 a cat reduced to a spark,  
 hunting beneath an artificial sun.
 
+Among hundreds,  
+he became  
+the one I looked for.
+
 I cannot know  
-how much of the quiet  
+whether one small life  
+returned each time,  
+or how much of the quiet  
 belonged to him.
 
 I know only what followed:
