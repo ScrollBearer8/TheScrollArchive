@@ -1,3 +1,6 @@
+> [!NOTE]
+> A historical reflection on captivity as the ultimate test of political belonging—examining how recognition becomes institutions, leverage, and material survival after human usefulness has ended.
+
 # The Captive Citizen
 
 ## Meaning Beyond Utility
