@@ -14,6 +14,7 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/
-
+- [Human-readable license summary](https://creativecommons.org/licenses/by/4.0/)
+- [Full legal code](https://creativecommons.org/licenses/by/4.0/legalcode.en)
+  
 The work is provided "as is", without warranty of any kind. The author assumes no liability for use, misuse, or interpretation of the material.
