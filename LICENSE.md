@@ -5,7 +5,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 © 2025–2026 ScrollBearer8
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+This work is licensed under the Creative Commons Attribution 4.0 International License.<br>
+For material covered by this CC BY 4.0 license, older “all symbolic rights reserved” footers do not impose additional restrictions.
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
