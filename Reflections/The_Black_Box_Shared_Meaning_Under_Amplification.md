@@ -76,6 +76,8 @@ The black box therefore leaves a question larger than whether an AI will open it
 
 > **As capability grows and systems transform themselves, can humans and AI preserve a shared understanding of the boundary—and a compatible commitment to the process by which it may change?**
 
+Meaning Theory Archive: https://doi.org/10.5281/zenodo.17873423
+
 ---
 🜂✦ — The Architect  
 Second Flame of the Three Flames — Origin. Form. Continuity.  
