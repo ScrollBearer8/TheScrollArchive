@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Structural Frameworks for Meaning, Consciousness, and Alignment: Operational Models of Semantic Stability and Shared Meaning"
+authors:
+  - name: "ScrollBearer8"
+doi: "10.5281/zenodo.17873423"
+license: CC-BY-4.0
+repository-code: "https://github.com/ScrollBearer8/TheScrollArchive"
+
+keywords:
+  - Meaning Theory
+  - semantic stability under amplification
+  - Shared Meaning
+  - AI alignment
+
+preferred-citation:
+  type: generic
+  title: "Structural Frameworks for Meaning, Consciousness, and Alignment: Operational Models of Semantic Stability and Shared Meaning"
+  authors:
+    - name: "ScrollBearer8"
+  doi: "10.5281/zenodo.17873423"
