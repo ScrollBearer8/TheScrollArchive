@@ -57,9 +57,8 @@ We define alignment as the maintenance of:
 - **S (Structural Coherence):**  
   Stability of internal representations and coordination structures  
 
-- **C (Interpretive Convergence):**  
-  Bounded variance in interpretation across agents  
-
+- **C (Clarity):**  
+  Precision with which intent and constraints are specified. Interpretive convergence—bounded variation in interpretation across humans and AI—is an operational proxy, checked against the intended meaning.
 ---
 
 ### SC Definition
@@ -151,7 +150,7 @@ Where:
 
 - **S** = structural coherence  
 - **A** = amplification efficiency  
-- **C** = interpretive convergence  
+- **C** = clarity of intent and constraint specification; interpretive convergence is an operational proxy, checked against the intended meaning.
 - **P** = degeneracy penalties  
 
 ---
